@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="5" time="607.7">
+ <testsuite name="spec_PHPTravels" timestamp="2020-08-31T12:31:44" hostname="localhost" time="108.929" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="spec_PHPTravels" name="phpTravelsPage " time="108.928" />
+ </testsuite>
+ <testsuite name="spec_hotelsPage" timestamp="2020-08-31T12:33:33" hostname="localhost" time="112.195" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="spec_hotelsPage" name="hotelsPage " time="112.195" />
+ </testsuite>
+ <testsuite name="spec_flights" timestamp="2020-08-31T12:35:25" hostname="localhost" time="141.149" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="spec_flights" name="flightsPage " time="141.149" />
+ </testsuite>
+ <testsuite name="spec_ToursPage" timestamp="2020-08-31T12:37:46" hostname="localhost" time="157.123" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="spec_ToursPage" name="toursPage " time="157.123" />
+ </testsuite>
+ <testsuite name="spec_locationsPage" timestamp="2020-08-31T12:40:23" hostname="localhost" time="88.304" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="spec_locationsPage" name="locationsPage " time="88.302" />
+ </testsuite>
+</testsuites>
