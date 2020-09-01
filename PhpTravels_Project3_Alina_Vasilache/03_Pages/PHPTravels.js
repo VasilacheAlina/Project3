@@ -23,43 +23,41 @@ module.exports = (function (phpTravelsPage) {
 		
 		// verify if settings is present 
 		expect(phpTravelsPage.settingsTabPresent()).toBeTruthy();
-		browser.sleep(3000);
+		
 		
 		// verify if currencies is present
 		expect(phpTravelsPage.currenciesTabPresent()).toBeTruthy();
-		browser.sleep(3000);
+		
 		
 		// verify if pauyment gateways is present
 		expect(phpTravelsPage.paymentGatewaysTabPresent()).toBeTruthy();
-		browser.sleep(3000);
 		
 		// verify if social connections is present
 		expect(phpTravelsPage.socialConectionTabPresent()).toBeTruthy();
-		browser.sleep(3000);
+		
 		
 		// verify if widgets is present
 		expect(phpTravelsPage.widgetsTabPresent()).toBeTruthy();
-		browser.sleep(3000);
 		
 		// verify homepage sliders is present
 		expect(phpTravelsPage.homePageSlidersTabPresent()).toBeTruthy();
-		browser.sleep(3000);
+		
 		
 		// verify if email templates is present
 		expect(phpTravelsPage.emailTemplatesTabPresent()).toBeTruthy();
-		browser.sleep(3000);
+	
 		
 		// verify if sms api settings
 		expect(phpTravelsPage.smsApiTabPresent()).toBeTruthy();
-		browser.sleep(3000);
+		
 		
 		// verify if backup is present 
 		expect(phpTravelsPage.backupTabPresent()).toBeTruthy();
-		browser.sleep(3000);
+		
 		
 		// verify if BAN IP is present 
 		expect(phpTravelsPage.banIPTabPresent()).toBeTruthy();
-		browser.sleep(3000);
+		
 		
 		
 		
@@ -255,7 +253,7 @@ module.exports = (function (phpTravelsPage) {
 		
 		// verify if locations is present 
 		expect(phpTravelsPage.locationTabIsPresent()).toBeTruthy();
-		browser.sleep(3000);
+		
 		
 	
 		// click on offers
